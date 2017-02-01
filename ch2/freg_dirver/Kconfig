@@ -1,0 +1,5 @@
+config FREG
+    tristate "Fake Register Device"
+    default n
+    help
+    This is Fake Register Device for android system
